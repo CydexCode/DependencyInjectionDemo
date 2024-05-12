@@ -87,7 +87,7 @@ namespace DependencyInjectionDemo.Data
                 Id = 9,
                 UserId = 1,
                 Title = "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-                Body = "quia et suscipit suscipit recusandae consequunturehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
+                Body = "quia et suscipit suscipit recusandae consequunturehenderit molestiae  ut quas totam nostrum rerum est autem sunt rem eveniet architecto"
             });
 
             posts.Add(new Post()

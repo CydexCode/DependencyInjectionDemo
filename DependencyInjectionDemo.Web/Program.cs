@@ -1,7 +1,11 @@
+using DependencyInjectionDemo.Services;
+using DependencyInjectionDemo.Shared;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IBlogService, BlogHardCodedService>();
 
 var app = builder.Build();
 

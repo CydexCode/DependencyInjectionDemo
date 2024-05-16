@@ -1,14 +1,11 @@
-![Next Article Preview](Preview.png)
 
-
-Full Tutorial :[ https://medium.com/@cydexcode/building-a-tree-n-tier-architecture-project-in-net-core-8-web-api-100dddc5cfd9
-](https://medium.com/@cydexcode/dependency-injection-in-net-core-8-823ff2f9aff4)
-
-## Check Out My Blog 
-
-- **Blog (Medium):** [https://medium.com/@cydexcode](https://medium.com/@cydexcode)
 
 # Dependency Injection in .NET Core 8 Web API
+![Next Article Preview](Preview.png)
+
+Blog Article :[ https://medium.com/@cydexcode/building-a-tree-n-tier-architecture-project-in-net-core-8-web-api-100dddc5cfd9
+](https://medium.com/@cydexcode/dependency-injection-in-net-core-8-823ff2f9aff4)
+
 
 This repository contains a comprehensive guide on implementing Dependency Injection (DI) in a .NET Core 8 Web API project. Dependency Injection is a crucial design pattern in software development, enhancing modularity, testability, and maintainability of codebases.
 
@@ -29,31 +26,10 @@ Follow the tutorial to harness the power of Dependency Injection and elevate the
 
 ---
 
-## Check Out My Blog 
+## Check Out My Blogs 
 
 - **Blog (Medium):** [https://medium.com/@cydexcode](https://medium.com/@cydexcode)
 
-   add below description to  above readme code file 
-Search
-Write
 
-Sachinthana Buddhika
-Dependency Injection in .NET 8
-Sachinthana Buddhika
-Sachinthana Buddhika
-
-5 min read
-·
-3 days ago
-
-I have already made an article for dependency injection concept. Before this .NET example you can read that article to understand it better.
-
-Here is the blog post:https://medium.com/@cydexcode/what-is-dependency-injection-di-fdcb15e04755
-
----
-
-Thank you for your support!
-
-🚀 Follow CydexCode on YouTube , TikTok , Linkedin , Facebook , and Telegram for more exciting content! 🎉📱💻📢
 
 
